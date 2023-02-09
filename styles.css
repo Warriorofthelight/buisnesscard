@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Ariel, serif;
+}
+
+.Jayden {
+    width:150px;
+}
+
+.card{
+    display:flex;
+    justify-content:space-around;
+   width:400px;
+    padding:10px;
+   margin:auto ;
+    background:rgb(193, 193, 242);
+   
+    
+}
+
+.text{
+    text-align:center;
+}
+
+.border-blue{
+    border:1px dotted blue;
+    border-bottom:6px solid blue;
+
+}
